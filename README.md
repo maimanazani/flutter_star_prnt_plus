@@ -1,6 +1,6 @@
 # flutter_star_prnt_plus
 
-[![Pub Version](https://img.shields.io/pub/v/flutter_star_prnt)](https://pub.dev/packages/flutter_star_prnt)
+[![Pub Version](https://img.shields.io/pub/v/flutter_star_prnt_plus)](https://pub.dev/packages/flutter_star_prnt_plus)
 
 This version is a fix for the original Flutter Star Prnt plugin that can be found [here](https://pub.dev/packages/flutter_star_prnt)
 All credit goes to the original publisher of the package.
