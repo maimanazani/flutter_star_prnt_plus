@@ -1,16 +1,15 @@
-# flutter_star_prnt
+# flutter_star_prnt_plus
 
 [![Pub Version](https://img.shields.io/pub/v/flutter_star_prnt)](https://pub.dev/packages/flutter_star_prnt)
+
+This version is a fix for the original Flutter Star Prnt plugin that can be found [here](https://pub.dev/packages/flutter_star_prnt)
+All credit goes to the original publisher of the package.
 
 Flutter plugin for [Star micronics printers](https://www.starmicronics.com/pages/All-Products).
 
 Native code based on React Native and Ionic/Cordova version  
 React native Version ➜ [here](https://github.com/infoxicator/react-native-star-prnt)  
 Ionic/Cordova Version ➜ [here](https://github.com/auctifera-josed/starprnt)
-
-## Looking for maintainer
-
-I'm looking for someone to take over the maintenance of this package as currently I don't work on flutter or Star Micromics printer, I can't really validate any changes on Star Micromics native code. Please open an issue if you're interested, generally I'm just looking for someone that can give me confidence you won't just hijack the package for something else.
 
 ## Updating from 1.0.4 and lower
 
