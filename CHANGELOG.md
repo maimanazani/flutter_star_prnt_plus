@@ -1,5 +1,9 @@
 ## 2.4.2
 
+- Fixed podspec not found issue on iOS
+
+## 2.4.2
+
 - Fixed no named parameter with the name 'size'. print_commands issue, credits to [@khp53](https://github.com/khp53)
 
 ## 2.4.1

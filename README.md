@@ -2,7 +2,7 @@
 
 [![Pub Version](https://img.shields.io/pub/v/flutter_star_prnt_plus)](https://pub.dev/packages/flutter_star_prnt_plus)
 
-This version is a fix for the original Flutter Star Prnt plugin that can be found [here](https://pub.dev/packages/flutter_star_prnt)
+This version is a fix and continuation for the original Flutter Star Prnt plugin that can be found [here](https://pub.dev/packages/flutter_star_prnt)
 All credit goes to the original publisher of the package.
 
 Flutter plugin for [Star micronics printers](https://www.starmicronics.com/pages/All-Products).
