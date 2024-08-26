@@ -1,4 +1,4 @@
-## 2.4.2
+## 2.4.3
 
 - Fixed podspec not found issue on iOS
 
