@@ -1,3 +1,7 @@
+## 2.4.4
+
+- Fixed swift static libraries was not coping generated objective-c header
+
 ## 2.4.3
 
 - Fixed podspec not found issue on iOS
