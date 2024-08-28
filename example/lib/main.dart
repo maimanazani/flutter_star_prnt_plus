@@ -3,7 +3,7 @@ import 'dart:typed_data';
 // import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter_star_prnt/flutter_star_prnt.dart';
+import 'package:flutter_star_prnt_plus/flutter_star_prnt.dart';
 import 'dart:ui' as ui;
 
 void main() => runApp(MyApp());
